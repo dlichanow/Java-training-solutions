@@ -1,0 +1,3 @@
+rootProject.name = 'java-training'
+include 'lesson04_Ex'
+

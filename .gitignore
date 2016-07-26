@@ -1,0 +1,38 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.class
+
+# Folders IntliJ and Gradle#
+**/.idea/*
+/out/
+.gradle
+/build/
+
+
+gradle-app.setting
+*.iml
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+
+
+
+# Windows
+# =========================
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
